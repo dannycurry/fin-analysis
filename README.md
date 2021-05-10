@@ -1,2 +1,2 @@
-# fin-analysis
+# Just having fun
 Modeling example 
